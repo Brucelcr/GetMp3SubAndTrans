@@ -19,9 +19,8 @@ I’ll check the contents of the file you uploaded and provide a guide for using
 
 Here’s a general guide on how to use and deploy the `mp3ReadTrans.py` file based on its content:
 
----
 
-### How to run this script on your machine
+# How to run this script on your machine
 
 Before running this script, make sure you have the following:
 
