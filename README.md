@@ -9,18 +9,6 @@ This script uses Whisper(developed by Openai) to get the subtitles from the vide
 The reason for creating this script is that I noticed there aren't many similar scripts available online. Typically, solutions either focus solely on translation or only on recognizing subtitles from videos. Moreover, most of the available solutions rely on outdated large models, leading to poor accuracy in both recognition and translation. Therefore, I decided to create my own script, using more up-to-date large models. 
 Additionally, this script integrates both recognition and translation into a single process, significantly improving efficiency and reducing the complexity of deployment and use.
 
-# Advantages of this model:
-
-1. **Utilizes Whisper**: Whisper is currently one of the most advanced large models for speech recognition. It can accurately and quickly recognize subtitles from MP3 or WAV files and supports a wide range of languages. This model is developed by OpenAI and is fully open-source and free to use.
-
-2. **Advanced translation with DeepSeek**: For translation, this script uses DeepSeek, which is also one of the most advanced translation models available today. It excels in translating Chinese to English and offers a significant improvement over older, mechanical translation models. Additionally, this model supports multiple languages.
-
-
-I’ll check the contents of the file you uploaded and provide a guide for using and deploying it. Let me first look at the code.
-
-Here’s a general guide on how to use and deploy the `mp3ReadTrans.py` file based on its content:
-
-
 # How to run this script on your machine
 
 Before running this script, make sure you have the following:
