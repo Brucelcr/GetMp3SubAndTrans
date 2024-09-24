@@ -69,7 +69,6 @@ Before running this script, make sure you have the following:
 
    Replace `"small"` with other options like `"base"`, `"large"`, etc., for different speed/accuracy trade-offs.
 
----
 
 ## Usage Instructions
 
@@ -95,14 +94,12 @@ Before running this script, make sure you have the following:
    - The original transcription
    - The translated text
 
----
 
 ### Notes:
 - Ensure that you replace the default folder paths and API keys with your actual data.
 - If you encounter any issues with CUDA, it might be due to GPU configuration. You can force CPU usage by setting `device = "cpu"` in the script.
 - The script is designed to handle errors gracefully. If any file fails to transcribe or translate, it skips to the next file while logging the error.
 
----
 
 ### Deployment Suggestions
 
