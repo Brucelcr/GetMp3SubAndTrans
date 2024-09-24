@@ -2,6 +2,7 @@
 
 This script uses Whisper(developed by Openai) to get the subtitles from the video and translate it into English using  DeepSeek(AI Translating model)
 * Can handle one or multiple videos
+* All subtitles and it's translated version will be saved in a "subtitles.txt" file.
 
 # Why creating this script?
 
