@@ -1,4 +1,4 @@
-# GetMp3SubtitleAndTranslate
+# GetMp3SubAndTrans
 
 This script uses Whisper(developed by Openai) to get the subtitles from the video and translate it into English using  DeepSeek(AI Translating model)
 * Can handle one or multiple videos
